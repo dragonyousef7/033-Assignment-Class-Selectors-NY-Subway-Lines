@@ -1,0 +1,76 @@
+.red {
+    color: red;
+}
+
+.green {
+    Color: green;
+}
+
+.purple {
+    Color: purple;
+}
+
+.blue {
+    color: blue;
+}
+
+.orange {
+    color: orange;
+}
+
+.blue {
+    color: blue;
+}
+
+.orange {
+    color: orange;
+}
+
+.blue {
+    color: blue;
+}
+.brown {
+    color: brown;
+}
+.silver {
+    color: silver;
+}
+.orange {
+    color: orange;
+}
+.yellow {
+    color: yellow;
+}
+.yellow {
+    color: yellow;
+}
+.yellow {
+    color: yellow;
+}
+.silver {
+    color: silver;
+}
+.brown {
+    color: brown;
+}
+/****** DO NOT CHANGE THE STYLES BELOW THIS ******/
+
+body {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+h1 {
+    text-align: center;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+}
+
+li {
+    margin: 0;
+    display: inline-block;
+    font-size: 3em;
+    padding: 0.25em;
+}
